@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/infoform.o
+./debug/status.o
+./debug/button.o
+./debug/stick.o
+./debug/touchpad.o
+./debug/controller.o
+./debug/poweritem.o
+./debug/rechargeablebattery.o
+./debug/mechanicalcontroller.o
+./debug/touchcontroller.o
+./debug/moc_mainwindow.o
+./debug/moc_infoform.o
+);

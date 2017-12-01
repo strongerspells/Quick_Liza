@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/infoform.o
+./release/status.o
+./release/button.o
+./release/stick.o
+./release/touchpad.o
+./release/controller.o
+./release/poweritem.o
+./release/rechargeablebattery.o
+./release/mechanicalcontroller.o
+./release/touchcontroller.o
+./release/moc_mainwindow.o
+./release/moc_infoform.o
+);
